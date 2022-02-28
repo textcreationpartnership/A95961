@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vindiciæ Carolinæ. Being a true relation of His Highnesse the Prince of Wales, His voyage at sea, since he parted from Calais in France, July 20. untill this very day, 1648.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95961</idno>
+            <idno type="STC">Wing V539</idno>
+            <idno type="STC">Thomason E468_25</idno>
+            <idno type="STC">ESTC R205376</idno>
+            <idno type="EEBO-CITATION">99864776</idno>
+            <idno type="PROQUEST">99864776</idno>
+            <idno type="VID">117008</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95961)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117008)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E468[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vindiciæ Carolinæ. Being a true relation of His Highnesse the Prince of Wales, His voyage at sea, since he parted from Calais in France, July 20. untill this very day, 1648.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] ye 23th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1660-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:117008:1" rendition="simple:additions"/>
+            <head>
+               <hi>Vindiciae Carolinae.</hi> Being a true Relation of His Highneſſe the Prince of <hi>Wales,</hi> His Voyage at Sea, ſince he parted from <hi>Calais</hi> in <hi>France,</hi> July 20. untill this very day, 1648.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T Holds not alwaies that the beſt and moſt virtu<g ref="char:EOLhyphen"/>ous Princes finde faithfull and obedient Subj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cts; but rather on the contrary, clemency and goodneſſe are requited with ſtrange unthankfulneſſe, or mon<g ref="char:EOLhyphen"/>ſtrous Rebellions. The preſent and ſad experience of His Majeſty the King of England, who was borne to the moſt unqueſtioned Right of three Imperiall Crownes, ſees them all in a raging fit of a diſtempered Rebellion, his Queene forced to flee away for refuge and protection: The Prince (the Heire apparent to the Crowne) with other the Royall Branches en<g ref="char:EOLhyphen"/>during a baſe impriſonment, or a forced abſence, and Majeſty it ſelfe confinde by the bloody O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dnances of cruell and barbarous Tray<g ref="char:EOLhyphen"/>tors, who firſt pretending a Reformation, and at laſt blaſpheming more freely to a Saint-ſhip, have violated all the Rules of duty to God and man, ſquaring all things acording to the humor of their fancy, and thereby tumbling the world into another Chaos, and new confuſion. The King (for many yeares paſt) hath endeavoured to correct theſe bold preſumptions, by meeting impudent Rebellion in the field; but the torrent ſwelling too high, His Majeſty was o<g ref="char:EOLhyphen"/>ver borne, and what he could not compleate by a Martiall power, he ſuffers for (though an unworthy impriſonment) by an Angelicall patience, in whoſe ſad afflictions all Loyall Subjects and good Chri<g ref="char:EOLhyphen"/>ſtians beare a part and ſhare: and now providence hath given ſome advantage to an Illuſtrious and hopefull Prince to enter on the ſcene, and act a part in this bloody Tragedy, who after two yeares conti<g ref="char:EOLhyphen"/>nuance in France, with his Royall Mother the Queene, at length takes his leave, making his firſt j<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urney to Calais, and after a few dayes continuance there prepares himſelfe for a paſſage into Holland, which ſucceeded with a proſperous Gale; and being aboard, a States man of war on Munday the 13. of July <hi>(ſtilo veceri)</hi> His High<g ref="char:EOLhyphen"/>neſſe arived at Helverſluce, the next day following in the afternoon; but before he put his foot in ſhooe he had the happy view of a Noble part of the Royall Navy, where the Duke of York, attended
+<pb n="2" facs="tcp:117008:2"/> with many Loyall hearts, had their expectations filled with over<g ref="char:EOLhyphen"/>flowing joyes: Their ſhowting and acclamations were exceeding high for ſuch an acceſſe of happineſſe; and the Seamen, and Can<g ref="char:EOLhyphen"/>nons plaid their parts, and with their loud voices roared out their joyfull apprehentions, filling the Region of the Ayre and tryum<g ref="char:EOLhyphen"/>phing over the waters, with high expreſſions of chearfullnes; that th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Prince of wales was now with them. And now the tide of rejoi<g ref="char:EOLhyphen"/>cing paſt over, His Higneſſe goes on ſhore; and having ſuddenly met with the Duke of Yorke; the two Princes congratulated their happy meeting, and with love unſpeakable embraced each other: The day following the Prince of O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ange made an early viſit to the Prince of Wales, and the matchleſſe Princeſſe, the Princeſſe Roy<g ref="char:EOLhyphen"/>all made all haſt to wait on her Brother, thinking every minute too tedious untill ſhe enjoyed His preſence: The Queene of Bohemia and her family made all poſſible ſpeed to welcome this Princely Gueſt; and after a few dayes or rather howers ſpent in ſalutation, the Prince directs His thoughts for a voyage by Sea, and minding the buſineſſe of the Navy, bids farewell to His Royall friends: And on Thurſday after His Highneſſe arived at Helve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſl uce: He went aboard the Admirall, where after ſome ſecond expreſſions of chearfulneſſe, he was received with great Teſtimonies of duty and obedience; and the winds not blowing faire for the Downes, the command was given to beare Northward towards Yarmouth Rode: And upon Saturday following about a in the afternoone, the whole Fleet atten<g ref="char:EOLhyphen"/>tending His Highneſſe caſt Anchor in that Rode, where after an hower or two it was reſolved, that a Gentleman ſhould be ſent with a Letter of kindeneſſe, and with certaine heads of the Princes De<g ref="char:EOLhyphen"/>claration the better to invite and animate that Corporation to their obedience: But ſome of the enimies Troopers guarding the Shore, forced the Meſſenger to returne to the Navy <hi>(Re infecta,)</hi> ſo by rhat interuption the Princes good intentions to the Towne, and the Townſmen good affections to the Prince were not underſtood at that time: The next day being Sunday, the Navy floting on the Sea, and the people amazed in the Towne, both continued in great admiration of each other; the Fleet wondred at the peoples ſtrange undutifulneſſe towards their Prince, and the People ſcar'd into a timerous, and benummed neutrality ſtared towards the Fleete with various diſtracted affections: The diſtempers and diſcompo<g ref="char:EOLhyphen"/>ſures in the Towne were very furious for a fit: at laſt their feare exceeded their love and Honour to their Prince, and forgetting
+<pb n="3" facs="tcp:117008:2"/> what an opportunity they had to welcome their Prince ſo grea a ſtranger: that night was ſpent in frozen cold expreſſions, and the night approaching ſummoned reſt and ſilence for that ſeaſon.</p>
+            <p>In the Morning ſome petty expreſſions of du<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y dared to appeare, and His Highneſſe had a taſte of ſome loyall Adventures, which by boat came to the Admirall from perſons well affected and deeply tou<g ref="char:EOLhyphen"/>ched with the ſence of ſo great perſons neerneſſe to the Towne. And after a while betwixt 6 and 7 of the clock on munday morning (the Townſmen having ſummoned their wits together the day before) it was reſolved in a publique meeting: That one of the Aldermen of the Towne ſhould come and viſit the Prince, and accordingly (a ſmall Boat being ſet off from the ſhore) a trim Townſman neatly dreſt up in a great double Ruffe, and in his ſatten doublet, ſpeedily came to the Admirall, where having performed his devoir to the Prince, he out with his purſe and impu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ently told His Highneſſe, that the Towne was reſolved to admit no forces of either ſide: But if His Highneſſe pleaſed to command any refreſhments from the Towne, His pleaſure ſhould be obeyed. His Highneſſe then conſi<g ref="char:EOLhyphen"/>dering the ſtaggering humor of the People, or rather more ſeriouſly the caſuall condition of the Towne ſo nearly waited on by a malici<g ref="char:EOLhyphen"/>ous enemy, accepted the motion of refreſhments; and having Or<g ref="char:EOLhyphen"/>dred commands for that purpoſe, the word was given for the whole Fleet to waigh Anchor, and the winde being courteous, to hoyſe up ſayles and to ſteere towards the Downes: which motion being obſer<g ref="char:EOLhyphen"/>ved by the Towneſmen, they were free with their Canon at our fare<g ref="char:EOLhyphen"/>well, and they diſcharged their O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dnance round the Towne, which was interpreted a teſtimony of their cheerefulnes, and loyalty, rather then of their feare or neglect. On the Wedneſday following, the Na<g ref="char:EOLhyphen"/>vy came with a fayre quarter wind into the Downes: at whoſe firſt approach the two fair Caſtles of Deale and Sandowne diſcharged their Ordnance for joy, and the ſeveralll ſhips were mutuall and kind in their expreſſions: and now the whole fleet having caſt anchor in the Downes, freſh occaſions were given for better advantages: Some deſignes were propoſed for enriching and encreaſing of the Navy, that the Seamen might prove the more couragious, and the Fleet more formidable to all oppoſition. But ſome more heady and impatient motions ſtarted ſuddenly on foot: And ſome of the Offi<g ref="char:EOLhyphen"/>cers and Seamen grew fierce and violent for the Land ſervice, and the reliefe of the two beſieged Caſtles of Deale and Sandowne; and the ſudden raiſing of the whole County of Kent, was a fancy that
+<pb n="4" facs="tcp:117008:3"/> vainly hurryed away the mindes of ſome, whoſe precipitate violence hath ſince recompenced their haſty indiſcretion: ſome leſſe experi<g ref="char:EOLhyphen"/>enced courages thought to remove mountaines as well as ride over waves, and made no doubt of heating Horſe and Foot from before the Caſtle with their muſquets and pikes: But the mixt body of Souldiers and Seamen (under the conduct of Sir <hi>John Boys</hi> and Major Generall <hi>Gibſon</hi>) being about the number of 600. in the whole, and all Foot, were after a gallant adventure, mightily overpowred by a numerous Body of Horſe and Foot of the enemy; ſo that the retreat was for<g ref="char:EOLhyphen"/>ced to Sandowne Caſtle, and ſome few ſlaine (to about the Number of fifteene) and ninety three being taken priſoners, according to a liſt of their names, ſent from the enemy by a trumpet the nex mor<g ref="char:EOLhyphen"/>ning: The reſt of the Souldiers retired to Sandowne Caſtle for pre<g ref="char:EOLhyphen"/>ſent ſhelter. And the skirmiſh over, they were the ſame day before night reimbarked into the ſeverall ſhips of the Navy: But though an importunate violence (not to be ſatisfied) occaſioned ſome mis<g ref="char:EOLhyphen"/>fortunes on ſhoare, the windes and tydes brought better ſucceſſe at Sea: And in a ſhort time the Navy began to ſwell with new additi<g ref="char:EOLhyphen"/>ons of ſtrength and wealth. Each ſhip was diligent in their duty to attend the North and South furlongs. And the Convertine and Blackmore Lady not a little proſperous; all the Fleet carefully ob<g ref="char:EOLhyphen"/>ſerving that no ſhip might paſſe without acknowledgment and duty to the Admirall now in the Downes the Kings chamber. And a guard being commanded for obedience, the Fleet did ſudainely thrive to greater power: But amidſt the occurrences at Sea, the Prince conſiders the Affaires at Land: And in order to his Royal Fathers buſineſſe, thinkes meete to diſpatch a Gentleman to the tw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Houſes at Weſtminſter, with a letter of kindneſſe to the Houſe of Lords, and a Declaration incloſed; thereby manifeſting to all the world his Princely inclinations and deſires to the peace and happineſſe of the Kingdome; but the Gentleman was in a few dayes returned, brin<g ref="char:EOLhyphen"/>ging no anſwer to his Highneſſe that contained nothing in it but craft and wonted ſtubburneſſe, plainely diſcovering that the men of Weſtminſter were reſolved rather to ſacrifice the hopes of all mens happineſſe to their ambition, luſt, and avarice, then part with the leaſt mite of their uſurped power; and this occcaſioned an utter differ<g ref="char:EOLhyphen"/>ment of all future motions to that purpoſe; but whilſt thoſe on ſhore are ſo brutiſh and monſtrous, the Sea gave good advantages of aſſi<g ref="char:EOLhyphen"/>ſtance, And firſt the Cormant<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne a new ſhip (laden for Ginnye in the Weſt Indyes, and now named the <hi>Charles</hi> by the Prince himſelfe)
+<pb n="5" facs="tcp:117008:3"/> was reduced from that imployment to ſerve his Highneſſe, and proves a bold and gallant Frygot. The <hi>Love,</hi> another tall and gallant ſhip (returning from the Streits out of the Venetian ſercice, formerly im<g ref="char:EOLhyphen"/>ployed againſt the Turks) was received (paſſing through the Downs) into ſervice, and made a man of war to attend the Navy; ſome other ſhips of great importance and ſervice were there admitted, and li<g ref="char:EOLhyphen"/>ſted for attendance and commands, which proved cheerefull additi<g ref="char:EOLhyphen"/>ons of ſtrength and power. And now after ſome weekes ſpent at Anchor in the Downes; notice and alarum was given of the Earle of <hi>Warwicks</hi> Preparations, and comming for Sea: After which ad<g ref="char:EOLhyphen"/>vertiſement, his Highneſſe adviſing with his Counſell of war, thought fit to weigh Anchor, and ſaile from the Downes towards Lee-Rode, being the mouth of the Riuer Thames to dare and encounter all op<g ref="char:EOLhyphen"/>poſition which ſpuriouſly preſumed to affront Royalty, and to make triall whether the Earle of Warwicke durſt ſayle with the Royall Standard and Flag in his Main Top. The Seamen were extreamly for<g ref="char:EOLhyphen"/>ward in the deſign; and (though ſome counſels were clean a verſe) yet after the Prince underſtood that Warwick was certainly drawn downe from Graveſend, his courage countermaunded all counſels.</p>
+            <p>And in publick Aboard the Admirall His Highneſſe cheerefully de<g ref="char:EOLhyphen"/>clared his Reſolutions for Lee-Rode, which diſcovery of his for<g ref="char:EOLhyphen"/>wardneſſe ſo animated the hearty Sea-men, that they preſently ſee<g ref="char:EOLhyphen"/>med as eager and violent as hungry Lyons to ſearch out and purſue the pray; that dared to appeare under ſuch a brazen faced rebellious countenance: And from theſe motions, the flames of Reſolution grew ſpeedily more fervent over all the Navy; and all things are prepared and poſtured for a fight at Sea, if the enemy durſt grapple or engage. To this purpoſe a new Command was given on Sunday the ſeaven and twenty of <hi>Auguſt,</hi> the ſeverall ſhips to weigh Anchor, and ſayle towards the Rebellious Party; whoſe more nimble and ſcouting Frygots were fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt diſcerned on the Tueſday following, which ſight ſo encouraged the hearts of all the Fleet attending the Prince; that the Officers and Sea-men brake forth into new expreſ<g ref="char:EOLhyphen"/>ſions of joy, not doubting but to reduce the Rebels to ſubmiſſe o<g ref="char:EOLhyphen"/>bedience, or elſe reſolving to dye in a Cauſe ſo juſt and honourable. And this reſolution was confirmed by an Oath of fidelity (which the Officers and Sea-men voluntarily tooke in his Highneſſe Preſence, going aboard each ſhip) to be true and faithfull to his Highneſſe Per<g ref="char:EOLhyphen"/>ſon and Commands againſt the Earle of <hi>Warwicks</hi> power, and all his Adherents and Confederates. And after theſe great pledges of fide<g ref="char:EOLhyphen"/>lity
+<pb n="6" facs="tcp:117008:4"/> was given on Wedneſday morning; the Fleet made all the ſayle they could, &amp; purſued the Frygots (firſt diſcovered the night before) which ſuddainly returning to their Mock-Admirall, told the newes of the Princes Approach with his Fleet, which made them (being then under ſaile) to tack about: And they baſely fled, and ſuffered the purſuite for ten Leagues at leaſt, the Channell growing more narrow, the Sands numerous on each ſide, and the night approaching, the en<g ref="char:EOLhyphen"/>gagements, were ſomewhat the longer deferrd; for the next morning (after the miſty fog was firſt diſperſed) the Princes whole Navy weighed Anchor againe, reſolved to fight with the enemy, whether lying at Anchor or under Saile; all preparations were haſtened in the ſeverall ſhips, the Cabins in an inſtant knockt downe, and ſlung into the Sea, the guns primed and leveled, the granads and fire balls ready, and ſeverall gunners with their linſtocks ordered in their ſeverall quarters: And all perſons diligent to obey commands, reſolved to beate and conquer the enemy, or dye bravely. And yet before the endeavour of farther attempt; it pleaſed the Gracious Prince to try if a Meſſage of peace and pardon could mollifie obdurate Traytours, and divers or prevent the effuſion of Engliſh blood; Anciently Acts of grace did ingage the people, <hi>obſequio mitigantur imperia:</hi> And kinde M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ges very prevalent with civ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll Heathens. To this purpoſe the Prince was pleaſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to ſend a groome of his Bed-chamber to <hi>War<g ref="char:EOLhyphen"/>wick,</hi> with a Letter to prepare his Loyalty and obedience; but his Committee-M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſters ſo ordered their Cypher-Admirall, that a baſe and unworthy anſwer was returned, much to this purpoſe: That his Warwickſhip was (forſooth) Lord High Admirall by a Commiſſion from <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he two Houſes at weſtminſter; and that he could not ſtrike the fl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gge in his mainetop to any Perſon whomſoever; which Re<g ref="char:EOLhyphen"/>bellious defyance made all Loyal Reſolutions much more keene, and haſtened the Princes Fleet to more ſpeedy revenge; which was on Thurſday attempted with many deſperate haz<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ds to engage the ene<g ref="char:EOLhyphen"/>my; but his Mock-Admiralſhip avoides all offers of fighting: And flying as neere the ſhoare as poſſible, would not endure the breath of a Canon, nor the ſight of a broad ſide. Amongſt other exchanges of the day: The Prince in the Admirall was very forward, and cal<g ref="char:EOLhyphen"/>ling for his Armes, ready to engage, minded more the preſervation of his Honour then his Perſon; notwithſtanding all importunities of his Counſell, and the Sea-men ſo earneſt for his ſafety: He anſwe<g ref="char:EOLhyphen"/>red that he dreaded no hazard in ſuch a Cauſe, but perſiſted reſolute and undaunted to encounter with the greateſt danger, equally with
+<pb n="7" facs="tcp:117008:4"/> the meaneſt Perſon ingaged, and following the <hi>George,</hi> wherein <hi>War<g ref="char:EOLhyphen"/>wick</hi> was, made often at him: But <hi>Warwick</hi> ſtill looked either to the mouth of Chattam River for the Protection of Queenburrough Ca<g ref="char:EOLhyphen"/>ſtle, or towards the mouth of the River of Thames, that he might be ſecure of the block houſes neere Graves end. Another handſome piece of Gallantry, the Vice-Admirall of the Princes Fleet did ma<g ref="char:EOLhyphen"/>nifeſt by purſuing <hi>Warwicks</hi> Mock-Vice-Admirall ſo long, and to ſuch a neereneſſe, that if ſhe durſt have ſtayd, or ſhewed any courage, the engagement muſt ſudainely proved very bloody, or very glorious to one of the two: The Swallow the Reare-Admirall in the Princes Fleet, was very impatient of Attendance, and in order made a ſwift purſuite after <hi>Warwicks</hi> ſhip; but he durſt not ſtay to give or take a broad ſide from any of the Princes ſhips; but ſtill crept neerer the ſhoare towards Queenburrough Caſtle: And thus the great ſhips and frygots having plyed too and againe to ingage the enemy to fight, a violent ſtorme of winds and tempeſt ſudainly ariſing, diſcreſ<g ref="char:EOLhyphen"/>ſion forced the Princes whole Fleet to caſt Anchor againe; and darkeneſſe parted further diſputes for that night following: The n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xt day being F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yday, the winds blew faire to goe to Sea, and they ſeemed to breath an invitation to either Fleet, where they might have Sea roome to fight and end the quarrell: And betwix<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſix and ſeaven of the clock, the command was given in the Princes Fleet to weigh Anchor, and hoiſe up ſailes, where the Channell being na<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ow, the Sands numerous, and the way dangerous, by reaſon of a Paſſage called the Spits (where many Sea-wracks yet appeare) the F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> et ſai<g ref="char:EOLhyphen"/>led very gently leſt they ſhould be too ſoone ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Warwicks</hi> ſight, and the motion was ordered the more ſlow to dare <hi>Warwicks</hi> compa<g ref="char:EOLhyphen"/>ny to a more proper conveniency of fighting: And for ſome nine or ten Leagues <hi>Warwicke</hi> ſeemed to be inclined to that purpoſe, and three Frigots of his mocke Vice-Admirall, came neere ſometimes, and once within diſtance of Canon ſhot: and two ſmall Ships of the Princes fleet loytering in the Reare, were lagging like eaſie ſweet baits to in<g ref="char:EOLhyphen"/>vite <hi>Warwicks</hi> Frigots to make greater haſte: which (the Rear Admi<g ref="char:EOLhyphen"/>rall the Swallow being paſt by) they ſeemed to gape more greedily hoping <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſeaze on the ſmaller veſſels, though they durſt not be enga<g ref="char:EOLhyphen"/>ged by any that were their equalls: But the Princes Reare-Admirall well knowing her duty ſuddenly tackt about and turned the Helme a lee, and her Sales halled up, ſhe preſently gave deafince to <hi>War<g ref="char:EOLhyphen"/>wicks</hi> three Frygots, and the mock-Vice Admirall: nay that Tacking about checked <hi>Warwicks</hi> whole Fleet, which preſently halled up
+<pb n="8" facs="tcp:117008:5"/> their Sailes, and caſt their Anchors: And by this meanes the leſſer veſſels, more deepely laden to recover ſecurity neare the Princes Ad<g ref="char:EOLhyphen"/>mirall: At which ſight 16 Colliers ſhips attending <hi>Warwick</hi> like ſtout men of War, ſpeedily parted from <hi>Warwicks</hi> Feet, and ſome of them made for London to the men of Weſtminſter to bring the newes from Lee-Rode of their Apiſh Admirall, whoſe Commiſſion they had created by a broad Seale, and whoſe Perſon they have ſince declared valiant by a monſtrous Ordinance: But the enemy thus cowardly ſcar'd from the Princes Company, contented themſelves with a ſecure riding at Anchor, and hated the ſight of Sea Roome; where His Highneſſe was preſent. And yet all danger was no ut<g ref="char:EOLhyphen"/>terly avoyded, there lay another Trap in the way, yet w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<g ref="char:EOLhyphen"/>viſions in the Princes Fleet well underſtood; ſome of the ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ps ha<g ref="char:EOLhyphen"/>ving taſted nothing but dry biſquet, or ſalt wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er for ſome daye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be<g ref="char:EOLhyphen"/>fore, and a pinching neceſſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y amongſt them all. This condition forced His Highneſſe to command the Fleet to ſteare towards Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y in Holland to refreſh and victuall the Navy; which courſe was held, but by the way the Princes Fleet met with another Sea-Monſter, A Parliament Fleet ſent from Portſmouth conſiſting of about 6 great ſhips beſides Pinks, Frigots, and hoys, which lay at Anchor in the <hi>channell and paſſage to Gory; But <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey ſnudged cloſe, and being coole in courage lay ſtill without light or Noiſe. The time was now about nine at night, and it was very dark, but it hapned that the Swallow, the Rear Admirall to the Princely Fleet, ſailed in the very guts and middeſt of them all, and haled to them, and finding them to be another ſort of a Rebellious ſupply, preſently reſolved to give them a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l ſome mark and teſtimony of courage and reſolution before ſhe parted, and in a very trice of time ſhe made ready her guns, and fired three pieces of Ordnance at them, which cauſed the Portſmouth Fleet to make a terrible outcry, and ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y that they would cut their Cables, and follow, but the timerous ſouls were not further diſputed with, by reaſon the Princes Fleet held on their courſe, and could not return to an ingage<g ref="char:EOLhyphen"/>ment, where the wind and tyde ſo mightily oppoſed. And this ſecond Fleet thus handſomely tryed and avoided, the Princes Fleet ſteered on for Holland, and the next day being Friday about three in the afternoon, His Highneſſe with all His N<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y came ſafe to Gory, and the Fleet is now at anchor at Helverſl uce in Holland, and <hi>Warwick</hi> with his Colliers and Frigots in Gory-rode, thinking to purſue the ad<g ref="char:EOLhyphen"/>vantage he conceived before him (ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wants of victuall and tackling;) but we are providing our ſelves, and ſhortly hope to pluck his Rebellious plumes of pride, or we will ſink by his ſides: Our men (what er'e you heare at London) reſent ſo well the Parliaments mercy at Colcheſter are reſolved to ſell their bloods at dearer rates, then ten ſhillings a head to the Summer Iſlands.</hi>
+            </p>
+            <p>
+               <hi>The Princes Highneſs hath his Navie in a very good order, well man'd and vi<g ref="char:EOLhyphen"/>ctuall'd, and fitted for ſervice. A new treachery diſcovered againſt the <hi>Fleet,</hi> but hap<g ref="char:EOLhyphen"/>pily prevented by the Prudence of the Prince.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
